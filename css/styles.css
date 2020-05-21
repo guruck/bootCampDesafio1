@@ -1,0 +1,63 @@
+body {
+  padding: 10px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+}
+form {
+  display: inline;
+}
+
+#btnRigth {
+  right: 10px;
+}
+.top {
+  width: 100%;
+  height: 100px;
+  vertical-align: bottom;
+  padding-top: 20px;
+  display: flex;
+}
+.busca {
+  display: inline-table;
+  width: 100%;
+  float: left;
+}
+.user-container {
+  display: flex;
+}
+.interpanel {
+  width: 100%;
+}
+
+.user {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.add {
+  border-radius: 50%;
+  background-color: darkgreen;
+  color: white;
+  font-weight: bold;
+}
+
+.user-list {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+.forte {
+  font-weight: bolder;
+}
